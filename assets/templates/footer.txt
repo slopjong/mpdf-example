@@ -6,7 +6,7 @@
                 <ul>
                     <li><a class="footer" href="http://slopjong.de/contact">Email</a></li>
                     <li><a class="footer" href="http://twitter.com/slopjong">Twitter</a></li>
-                    <li><a class="footer" href="irc //irc.freenode.net/#spaceapi">freenode (#spaceapi)</a></li>
+                    <li><a class="footer" href="irc://irc.freenode.net/#spaceapi">freenode (#spaceapi)</a></li>
                 </ul>
             </td>
             <td style="text-align: center; width: 60%;">
