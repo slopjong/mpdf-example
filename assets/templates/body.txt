@@ -1,0 +1,23 @@
+
+<section>
+    <div id="left-column">
+        PHP Java Spring C Qt/C++ Python Bash JavaScript Arch Linux Debian Fedora openSUSE Ubuntu Eagle Inkscape Gimp HTML CSS Pascal Oberon Modula Matlab Electronics Bootstrap jQuery Mootools ExtJS Xlib JSON Maven Make CMake Autotools WordPress Typo3 J2EE Django Ant Composer cURL Eclipse Perl OpenWRT Subversion Git Mercurial VirtualBox Zsh AppleScript SSHFS Node.js Apache Fail2ban iptables Redmine PKGBUILD Alsa JavaFX Axis2 buildr Backpress EMF GEF Shell Scripting
+    </div>
+    
+    <div id="right-column">
+        
+        <div class="paragraph">
+            <h1>What is slopjong.de?</h1>
+            <a class="link" href="http://slopjong.de" target="_blank">slopjong.de</a> is a website that has been launched as a private blog in March 2008. The main goal was to improve the language skills by writing English articles. The very first blog posts have been published with the hope that nobody else would read them because the spelling style was awful at the beginning. Over the years the quality of the posts increased and the articles became more technical. In November 2012 the blog owner decided to create a new design and to remove old blog posts about his private life and sports activities to turn the website into a full tech blog.
+        </div>
+        
+        <div class="paragraph">
+            <h1>Why does this blog exist?</h1>
+            As previously mentioned the original purpose was to practice the language skills. Since the objectives have changed a lot by blogging about topics like Linux, programming languages and web technologies, the goal nowadays is to share knowledge with others. Every piece of knowledge on <a class="link" href="http://slopjong.de" target="_blank">slopjong.de</a> is considered open source in the same sense as for software.
+        </div>
+        <div class="paragraph">
+            <h1>Who is blogging?</h1>
+            Yet, only one person is blogging on <a class="link" href="http://slopjong.de" target="_blank">slopjong.de</a>. This person thinks, lives and understands himself as a pure technologist who loves to learn, create and hack things, and sometimes cracks them too.<br> You can find him everywhere on the net by searching for his nickname <em>Slopjong</em>. 
+        </div>
+    </div>
+</section>

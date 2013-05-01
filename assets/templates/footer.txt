@@ -1,0 +1,23 @@
+<!-- this needs to be a div, the footer tag doesn't work -->
+<div id="footer">
+    <table>
+        <tr>
+            <td style="text-align: left; width: 30%;">
+                <ul>
+                    <li><a class="footer" href="http://slopjong.de/contact">Email</a></li>
+                    <li><a class="footer" href="http://twitter.com/slopjong">Twitter</a></li>
+                    <li><a class="footer" href="irc //irc.freenode.net/#spaceapi">freenode (#spaceapi)</a></li>
+                </ul>
+            </td>
+            <td style="text-align: center; width: 60%;">
+                <a class="footer website-link" href="http://slopjong.de">SLOPJONG.DE</a>
+            </td>
+            <td style="text-align: right; width: 30%;">
+                <ul>
+                    <li><a class="footer" href="http://slopjong.de">Blog</a></li>
+                    <li><a class="footer" href="http://github.com/slopjong">Github</a></li> 
+                </ul>
+            </td>
+        </tr>
+    </table>
+</div>
